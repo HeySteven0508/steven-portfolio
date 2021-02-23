@@ -35,8 +35,7 @@ export const projectsData = [
     info:
       'Sales tracking app allows you to track your sale everyday. It can generate a daily/weekly/monthly report.',
     info2: 'Simple but beautiful UI will give you a good experience with the dashboard',
-    url: '',
-    repo: 'https://github.com/SpideyStan581994', // if no repo, the button will not show up
+    repo: 'https://github.com/HeySteven0508/salestrackingapp', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -45,8 +44,7 @@ export const projectsData = [
     info:
       'Scholarship Biling Checking System will allow you to check the process of scholarship billing. It updates real time and real monitoring to check the status of the process of each bill',
     info2: '',
-    url: '',
-    repo: 'https://github.com/SpideyStan581994', // if no repo, the button will not show up
+    repo: 'https://github.com/HeySteven0508/Web-app-for-pasmak', // if no repo, the button will not show up
   },
 ];
 
@@ -67,18 +65,18 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: 'https://github.com/SpideyStan581994',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
       url: 'https://www.linkedin.com/in/steven-tan-219212160/',
     },
     {
       id: nanoid(),
+      name: 'facebook',
+      url: 'https://www.facebook.com/stan581994/',
+    },
+    {
+      id: nanoid(),
       name: 'github',
-      url: 'https://github.com/SpideyStan581994',
+      url: 'https://github.com/HeySteven0508',
     },
   ],
 };
