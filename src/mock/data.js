@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'Experienced Java Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in SQL, Spring Boot, Spring MVC, Core Java, and Java.',
   paragraphThree: 'Available in full time or part time jobs.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1_k7Cq767kSTeSBD7LkBRKjPj2_DMRceO/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -58,11 +58,6 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: 'https://github.com/SpideyStan581994',
-    },
     {
       id: nanoid(),
       name: 'linkedin',
